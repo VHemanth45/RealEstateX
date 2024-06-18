@@ -38,10 +38,12 @@ An exhaustive comparison of regression models (Linear Regression, SVR, Random Fo
 
 An analytics module was developed to visually represent key insights about real estate data using maps, word clouds, scatter plots, and other visualizations.
 ![WhatsApp Image 2024-04-03 at 20 08 13_c9761014](https://github.com/VHemanth45/RealEstateX/assets/154959821/a11ab29c-e159-4162-8b5d-c50250526afe)
+![WhatsApp Image 2024-04-03 at 20 08 54_e73a842c](https://github.com/VHemanth45/RealEstateX/assets/154959821/a6cbf55a-e77b-464d-8090-7d57fa9ae7c3)
 
 ### 9. Building the Recommender System
 
 Three recommendation models focusing on facilities, price details, and location advantages were developed, with a user-friendly interface created using Streamlit for enhanced accessibility.
+![WhatsApp Image 2024-04-03 at 20 08 14_2f78a602](https://github.com/VHemanth45/RealEstateX/assets/154959821/2e074e54-e4ac-4767-b0dd-cd03c51942db)
 
 ### 10. Deploying the Application on AWS
 
