@@ -37,7 +37,7 @@ An exhaustive comparison of regression models (Linear Regression, SVR, Random Fo
 ### 8. Building the Analytics Module
 
 An analytics module was developed to visually represent key insights about real estate data using maps, word clouds, scatter plots, and other visualizations.
-
+![WhatsApp Image 2024-04-03 at 20 08 13_c9761014](https://github.com/VHemanth45/RealEstateX/assets/154959821/a11ab29c-e159-4162-8b5d-c50250526afe)
 
 ### 9. Building the Recommender System
 
